@@ -31,7 +31,7 @@ I'm also a STEM instructor who teaches Python, HTML  and Scratch  to students of
 
 You can connect with me on the following platforms:
 
-- LinkedIn 
+- [LinkedIn]( linkedin.com/in/monalisa-mbilinyi) 
 - Twitter 
 - Email 
 
