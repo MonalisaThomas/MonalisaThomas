@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Habari, I am Monalisa Thomas Mbilinyi
 I am a Data Scientist, Geospatial Analyst, and Education Strategist with a passion for applying techn
 
 
