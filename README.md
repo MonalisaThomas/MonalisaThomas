@@ -2,7 +2,7 @@
 
 **Data Scientist | Geospatial Analyst | Education Strategist**  
 Graduate of Carnegie Mellon University – Master of Science in Information Technology.  
-Focused on data science, AI, and geospatial applications for real-world impact.  
+Focused on data science, Machine Learning, AI, and geospatial applications for real-world impact.  
 
 ---
 
